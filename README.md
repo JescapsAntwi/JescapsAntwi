@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jescapsantwi&label=Profile%20views&color=0e75b6&style=flat" alt="jescapsantwi" /> </p>
 
-- 🔭 I’m currently working on **an E-Commerce Website**
+- 🔭 I’m currently working on **a Hostel Management System**
 
 - 🌱 I’m currently learning **Next.js, Wordpress**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **improving my knowledge about God**
 
-- 👨‍💻 All of my projects are available at [https://jesantwi.tech/](https://jesantwi.tech/)
+- 👨‍💻 All of my projects are available at [https://jesantwi.vercel.app/]https://jesantwi.vercel.app/
 
 - 📝 I regularly write articles on [https://medium.com/@antwijescaps1](https://medium.com/@antwijescaps1)
 
