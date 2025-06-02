@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **improving my knowledge about God**
 
-- 👨‍💻 All of my projects are available at [https://jesantwi.vercel.app/]https://jesantwi.vercel.app/
+- 👨‍💻 All of my projects are available at [https://jesantwi.vercel.app/](https://jesantwi.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@antwijescaps1](https://medium.com/@antwijescaps1)
 
