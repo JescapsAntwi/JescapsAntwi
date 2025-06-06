@@ -1,4 +1,4 @@
-          <h1 align="center">Hi 👋, I'm Jescaps Antwi</h1>
+<h1 align="center">Hi 👋, I'm Jescaps Antwi</h1>
 <h3 align="center">A passionate full stack developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jescapsantwi&label=Profile%20views&color=0e75b6&style=flat" alt="jescapsantwi" /> </p>
@@ -38,5 +38,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jescapsantwi&show_icons=true&locale=en&layout=compact" alt="jescapsantwi" /></p>
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jescapsantwi&" alt="jescapsantwi" /></p>-->
 
 
