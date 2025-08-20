@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jescapsantwi&label=Profile%20views&color=0e75b6&style=flat" alt="jescapsantwi" /> </p>
 
-- 🔭 I’m currently working on **a Hostel Management System**
+- 🔭 I’m currently working on **an MLOps for GeoSpatial Inference.**
 
-- 🌱 I’m currently learning **Next.js, Wordpress**
+- 🌱 I’m currently learning **Cloud Development.**
 
 - 👯 I’m looking to collaborate on **a BlueBook clone**
 
