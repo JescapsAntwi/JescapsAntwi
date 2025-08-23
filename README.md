@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **antwijescaps1@gmail.com**
 
-- 📄 Know about my experiences [https://www.cvpage.link/JescapsAntwi](https://www.cvpage.link/JescapsAntwi) (in progress ⌛).
+- 📄 Know about my experiences [https://www.cvpage.link/JescapsAntwi](https://www.cvpage.link/JescapsAntwi).
 
 - ⚡ Fun fact **I watch literally every sport and I think football is the best of them all.**
 
