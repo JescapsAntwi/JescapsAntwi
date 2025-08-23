@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jescapsantwi&label=Profile%20views&color=0e75b6&style=flat" alt="jescapsantwi" /> </p>
 
-- 🔭 I’m currently working on **an MLOps for GeoSpatial Inference.**
+- 🔭 I’m currently working on **an MLOps Pipeline for GeoSpatial Inference.**
 
 - 🌱 I’m currently learning **Cloud Development.**
 
